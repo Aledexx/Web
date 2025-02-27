@@ -24,7 +24,9 @@ Hasta el momento, he creado tres páginas en mi sitio web:
 
 ## 4. Publicación de entradas
 
-He publicado aproximadamente 15 entradas (posts) en mi blog. Estas publicaciones abordan diversos temas de interés y están diseñadas para atraer y mantener la atención de mis visitantes.
+He publicado aproximadamente más de 15 entradas (posts) en mi blog. Estas publicaciones abordan diversos temas de interés y están diseñadas para atraer y mantener la atención de mis visitantes.
+
+Además, he añadido un **post en catalán** para que los usuarios puedan acceder al contenido en el idioma que prefieran, mejorando la accesibilidad de la web.  
 
 ## 5. Adición de fotografías
 
@@ -49,5 +51,4 @@ He añadido varios plugins que facilitan y mejoran la forma de editar el conteni
 ## 10. Accesos rápidos en la parte inferior  
 
 En la parte inferior de la página, he añadido accesos rápidos para facilitar la navegación y permitir que los usuarios entren fácilmente donde deseen.  
-
 
